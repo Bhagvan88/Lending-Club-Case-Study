@@ -23,7 +23,7 @@
 - People with more number of public derogatory records are having more chance of filing a bankruptcy. Lending club should make sure there are no public derogatory records for borrower.
 
 ## Technologies Used
-- library - version 1.0
+- version 1.0
 
 ## Acknowledgements
 Give credit here.
