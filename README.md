@@ -30,4 +30,4 @@ Give credit here.
 - This project was inspired by UPGrad 
 
 ## Contact
-Created by [Bhagvan88] - feel free to contact me Bhagvan Bux Verma
+Created by [@Bhagvan88] - feel free to contact me Bhagvan Bux Verma
